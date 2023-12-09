@@ -35,7 +35,7 @@ if (isset($_POST['username'])){
     }else{
 ?>
 <div class="form">
-<h1>Log In</h1>
+<h1>TP_SQL</h1>
 <form action="" method="post" name="login">
 <input type="text" name="username" placeholder="Username" required /><br>
 <input type="password" name="password" placeholder="Password" required />
